@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 style="color: green">Welcome to Jenkins-Casestudy</h2>
+<h2 style="color: blue">Welcome to Jenkins-Casestudy.This is the changed code</h2>
 </body>
 </html>
